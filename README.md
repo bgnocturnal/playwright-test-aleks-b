@@ -1,4 +1,4 @@
-# quick-playwright-test-aleks-b
+# playwright-test-aleks-b
 
 ## How to run:
 
